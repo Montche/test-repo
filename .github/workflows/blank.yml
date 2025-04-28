@@ -28,5 +28,5 @@ jobs:
            - name: Cpu info
              run: nproc
            - name: Kernel info
-             run: uname-r
+             run: uname -r
   
